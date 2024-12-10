@@ -1,4 +1,4 @@
-
+RS码编译码算法
 functioncode=rs_rscode(msg)
 g=[1003213
 0105514
